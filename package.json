@@ -1,0 +1,17 @@
+{
+  "name": "super-redis",
+  "version": "1.0.0",
+  "description": "A small server to test if redis working on AWS or not",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "experss": "^0.0.1-security",
+    "express": "^4.17.1",
+    "redis": "^3.1.2"
+  }
+}
